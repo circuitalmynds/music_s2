@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "Cabaret Voltaire - Sensoria (7'' Mix)-c2vCpT1H7u0.mp4",
+            "path": "music_s2/videos/Cabaret Voltaire - Sensoria (7'' Mix)-c2vCpT1H7u0.mp4",
+            "size": 15.191011328
+        },
+        {
             "name": "LOS HERMANOS PAJARO alemanes suizos locos ridiculos frikis silbando canción aun mas friki-xHOp1Hwbdc4.mp4",
             "path": "music_s2/videos/LOS HERMANOS PAJARO alemanes suizos locos ridiculos frikis silbando canción aun mas friki-xHOp1Hwbdc4.mp4",
             "size": 2.131178496
@@ -17,5 +22,5 @@
             "size": 5.729057792000001
         }
     ],
-    "total_size": 11.337361408000001
+    "total_size": 26.528372736
 }
