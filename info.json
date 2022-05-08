@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Shostakovich - Jazz Suite No. 1 - 1. Waltz-zZ6dWoQut_0.mp4",
+            "path": "music_s2/videos/Shostakovich - Jazz Suite No. 1 - 1. Waltz-zZ6dWoQut_0.mp4",
+            "size": 5.729057792000001
+        }
+    ],
+    "total_size": 5.729057792000001
 }
