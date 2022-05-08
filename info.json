@@ -12,6 +12,11 @@
             "size": 19.055710208
         },
         {
+            "name": "Jeux D'Eau-VLC9oJBHxkI.mp4",
+            "path": "music_s2/videos/Jeux D'Eau-VLC9oJBHxkI.mp4",
+            "size": 10.363088896
+        },
+        {
             "name": "La femme à la peau bleue-FnAgD6J65Xc.mp4",
             "path": "music_s2/videos/La femme à la peau bleue-FnAgD6J65Xc.mp4",
             "size": 5.983853568000001
@@ -32,6 +37,11 @@
             "size": 2.131178496
         },
         {
+            "name": "João Gilberto - 30 - Só em Teus Braços-lruajuKZYws.mp4",
+            "path": "music_s2/videos/João Gilberto - 30 - Só em Teus Braços-lruajuKZYws.mp4",
+            "size": 2.698893312
+        },
+        {
             "name": "Al Bowlly Ray Noble - Freckle Face, You're Beautiful 1934-UQO89bUYNnU.mp4",
             "path": "music_s2/videos/Al Bowlly Ray Noble - Freckle Face, You're Beautiful 1934-UQO89bUYNnU.mp4",
             "size": 3.47712512
@@ -42,5 +52,5 @@
             "size": 5.729057792000001
         }
     ],
-    "total_size": 68.36100505600001
+    "total_size": 81.42298726400001
 }
