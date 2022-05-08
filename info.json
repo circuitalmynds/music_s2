@@ -12,6 +12,11 @@
             "size": 19.055710208
         },
         {
+            "name": "Elton John - Rocket Man (Official Music Video)-DtVBCG6ThDk.mp4",
+            "path": "music_s2/videos/Elton John - Rocket Man (Official Music Video)-DtVBCG6ThDk.mp4",
+            "size": 15.797596160000001
+        },
+        {
             "name": "Jeux D'Eau-VLC9oJBHxkI.mp4",
             "path": "music_s2/videos/Jeux D'Eau-VLC9oJBHxkI.mp4",
             "size": 10.363088896
@@ -50,7 +55,12 @@
             "name": "Shostakovich - Jazz Suite No. 1 - 1. Waltz-zZ6dWoQut_0.mp4",
             "path": "music_s2/videos/Shostakovich - Jazz Suite No. 1 - 1. Waltz-zZ6dWoQut_0.mp4",
             "size": 5.729057792000001
+        },
+        {
+            "name": "Daphne Oram - Bird of Parallax-8Oc0B6pkl4A.mp4",
+            "path": "music_s2/videos/Daphne Oram - Bird of Parallax-8Oc0B6pkl4A.mp4",
+            "size": 30.5005056
         }
     ],
-    "total_size": 81.42298726400001
+    "total_size": 127.721089024
 }
